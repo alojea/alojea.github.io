@@ -15,10 +15,10 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
   </tr>
   <tr>
     <td>
-        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+        <img src="https://alojea.github.io/assets/images/desktop.png?raw=true" width="600"/>
     </td>
     <td>
-        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+        <img src="https://alojea.github.io/assets/images/mobile.png?raw=true" width="250"/>
     </td>
   </tr>
 </table>
@@ -41,11 +41,11 @@ There are 6 color schemes available:
 
 | Blue | Turquoise | Green |
 |---------|---------|---------|
-| <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
+| <img src="https://alojea.github.io/assets/images/blue.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/turquoise.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/green.jpg" width="300"/> |
 
 | Berry | Orange | Ceramic |
 |---------|---------|---------|
-| <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
+| <img src="https://alojea.github.io/assets/images/berry.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/orange.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/ceramic.jpg" width="300"/> |
 
 ## Credits
 
