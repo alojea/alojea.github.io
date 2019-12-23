@@ -3,10 +3,9 @@
 </a>
 
 # Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> This theme was designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
 <table>
   <tr>
@@ -25,35 +24,33 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
 
 ## Installation
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository
-* Delete the `gh-pages` branch
-* Re-create the `gh-pages` branch
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready at `https://username.github.io/online-cv/`
+https://pages.github.com/
 
-Change all the details from one place: ``_data/data.yml``
+Clone repo: 
+git clone https://github.com/alojea/alojea.github.io
 
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
+Change all the details from one place: 
+``_data/data.yml``
+``_config.yml``
 
-## Skins
 
-There are 6 color schemes available:
+Run git commands
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
-| <img src="https://alojea.github.io/assets/images/blue.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/turquoise.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/green.jpg" width="300"/> |
 
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
-| <img src="https://alojea.github.io/assets/images/berry.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/orange.jpg" width="300"/> | <img src="https://alojea.github.io/assets/images/ceramic.jpg" width="300"/> |
+git add --all
 
-## Credits
+git commit -m "Initial commit"
 
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+git push -u origin master
 
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
+## My site 
+
+The site was created associating gitHub project with 
+git pages. 
+
+https://alojea.github.io
+
 
 ## License
 
