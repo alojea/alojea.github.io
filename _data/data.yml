@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: alojea@gmail.com
     linkedin: https://linkedin.com/in/aojea/
-    github: https://github.com/alojea/
+    github: alojea
     twitter: '@ojea_alejandro'
     # Number/Username, e.g. 123456/alandoe
     stack-overflow: 17304183/alejandro
@@ -44,9 +44,9 @@ career-profile:
       working in accordance with the
       best practice methodologies, organizational policies, procedures guidelines, handling
       of confidential and sensitive information. 
-      I have been working in variaty of indistries around Argentina and UK. 
+      I have been working in variaty of industries around Argentina and UK. 
 education:
-    - degree: System Engineer - Networking Orientation
+    - degree: System Engineer
       university: UNLAM - Universidad De La Matanza
       location: Buenos Aires - Argentina
       time: 2003 - 2008
